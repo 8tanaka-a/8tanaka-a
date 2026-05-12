@@ -19,9 +19,6 @@
 
 ![NestJS](https://img.shields.io/badge/NestJS-FFFFFF?style=flat&logo=nestjs&logoColor=black&labelColor=FFFFFF)
 
-## Activity
-
-![8tanaka-a's contribution graph](https://ghchart.rshah.org/8tanaka-a)
 
 ## Links
 
