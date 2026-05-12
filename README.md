@@ -1,16 +1,28 @@
-## Hi there 👋
+# one code / @8tanaka-a
 
-<!--
-**8tanaka-a/8tanaka-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+フロントエンド中心。  
+最近はAI駆動開発について、試行錯誤中。
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Language**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat&logo=typescript&logoColor=black&labelColor=FFFFFF)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-FFFFFF?style=flat&logo=react&logoColor=black&labelColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=flat&logo=nextdotjs&logoColor=black&labelColor=FFFFFF)
+![Astro](https://img.shields.io/badge/Astro-FFFFFF?style=flat&logo=astro&logoColor=black&labelColor=FFFFFF)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-FFFFFF?style=flat&logo=nestjs&logoColor=black&labelColor=FFFFFF)
+
+## Activity
+
+![8tanaka-a's contribution graph](https://ghchart.rshah.org/8tanaka-a)
+
+## Links
+
+🌐 [Portfolio](https://8tanaka-a.github.io)
